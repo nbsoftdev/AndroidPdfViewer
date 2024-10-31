@@ -14,7 +14,7 @@ Gradle
 ------
 ```
 dependencies {
-    ...
+    
     implementation 'com.github.nbsoftdev:AndroidPdfViewer:Tag' 
 }
 ```
